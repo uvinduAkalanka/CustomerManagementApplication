@@ -1,4 +1,4 @@
-package com.customer.customermanagement.dto.controller;
+package com.customer.customermanagement.controller;
 
 import com.customer.customermanagement.dto.CustomerDTO;
 import com.customer.customermanagement.service.CustomerService;
